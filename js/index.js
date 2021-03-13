@@ -25,7 +25,7 @@ $(document).ready(function(){
     $('.testimonial').slick({
         centerMode: true,
         centerPadding: '60px',
-        slidesToShow: 1,
+        slidesToShow: 2,
         slidesToScroll: 1,
         dots: false,
         arrows: true,

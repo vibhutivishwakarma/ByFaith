@@ -69,9 +69,9 @@ body{
     margin-top: 80px;
 }
 
-.videoleft{
+/* .videoleft{
     margin-left: 140px;
-}
+} */
 
 /* ALL BUTTON */
 
@@ -260,7 +260,7 @@ h5{
 
    .videoleft {
     margin-top: -12px;
-    margin-left: 24px;
+    margin-left: 2px;
     
 }
     .navbar .navbar-brand {
@@ -357,9 +357,20 @@ h5{
         font-size: 13px
     }
     .sourcelist {
-        margin-left: 4px;
+        margin-left: 68px;
     }
 
+    .sourcelink{
+        margin-left: 68px;
+    }
+
+    .socialicon {
+        margin-left: 52px;
+    }
+
+    .footer{
+        text-align: center;
+    }
     /* .slick-arrow{
         position: absolute;
         z-index: 99;
@@ -380,7 +391,7 @@ h5{
     
 }
 
-.embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video {
+/* .embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -388,7 +399,7 @@ h5{
     width: 412px;
     height: 270px;
     border: 0;
-}
+} */
 
 .slick-slide {
     display: none;
